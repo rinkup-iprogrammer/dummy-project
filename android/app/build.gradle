@@ -76,9 +76,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.oku_mobile_app"
+    namespace "com.ipro.demoProject"
     defaultConfig {
-        applicationId "com.oku_mobile_app"
+        applicationId "com.ipro.demoProject"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

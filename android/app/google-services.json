@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "535257522929",
-    "project_id": "fir-app-dc8dc",
-    "storage_bucket": "fir-app-dc8dc.appspot.com"
+    "project_number": "1074416515168",
+    "project_id": "ipro-demo",
+    "storage_bucket": "ipro-demo.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:535257522929:android:d81566a973d2299092bf50",
+        "mobilesdk_app_id": "1:1074416515168:android:f726f75291892875f62b05",
         "android_client_info": {
-          "package_name": "com.oku_mobile_app"
+          "package_name": "com.ipro.demoProject"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBPiCB96Fj3QWplUh2XxlPevq4dPSveY3U"
+          "current_key": "AIzaSyBWonlFfhk71UPWKXK64d632L8OJ53yH4Y"
         }
       ],
       "services": {

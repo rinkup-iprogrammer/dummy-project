@@ -1,4 +1,4 @@
-package com.oku_mobile_app
+package com.ipro.demoProject
 
 import android.app.Application
 import com.facebook.react.PackageList
