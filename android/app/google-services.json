@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535257522929",
+    "project_id": "fir-app-dc8dc",
+    "storage_bucket": "fir-app-dc8dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535257522929:android:d81566a973d2299092bf50",
+        "android_client_info": {
+          "package_name": "com.oku_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiCB96Fj3QWplUh2XxlPevq4dPSveY3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
